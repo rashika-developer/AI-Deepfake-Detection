@@ -1,0 +1,23 @@
+# Large files
+*.mp4
+*.avi
+*.mov
+*.flv
+
+# Data
+data/
+processed_faces/
+
+# Model weights  
+src/models/*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg*
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
